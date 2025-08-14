@@ -77,7 +77,7 @@ class MyApp extends StatelessWidget {
 Compare the intended design with the actual rendering from the emulator below.
 
 ### Target Design
-![Target Layout]([path/to/challenge_image.png](https://github.com/Yoni-Berihun/Flutter-Widget-Basics/blob/main/Layout-Challenge-Specs.png))
+![Target Layout](Layout-Challenge-Specs.png)
 
 ### Emulator Result
 ![Emulator Screenshot](path/to/emulator_output.png)
